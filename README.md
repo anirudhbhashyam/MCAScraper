@@ -2,6 +2,8 @@
 
 Automated tool to download company/LLP registration data from the Ministry of Corporate Affairs (MCA) website.
 
+Bad code, not recommended for use.
+
 ## Installation
 
 1. Clone the repository:
